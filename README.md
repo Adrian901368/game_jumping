@@ -1,0 +1,1 @@
+In this game is character who can move jump, move forward and backward. The main enemy is a canon which is shooting bombs on character and tries to kill him. After every score incrementation is canon shooting bombs faster and faster.
